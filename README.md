@@ -4,7 +4,7 @@
 <br />
 <br />
 
-  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/absolutezeroo/.github/master/.resources/git-header.svg" />
+  <img width="55%" align="right" alt="Github" src="https://github.com/absolutezeroo/absolutezeroo/blob/master/banner.svg" />
   
 **Talking about Personal Stuffs:**
 
