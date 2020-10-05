@@ -1,4 +1,4 @@
-## Hi, I'm Clayton, a Developer 🚀 from French.
+## Hi, I'm Clayton, a Developer from French 🚀
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/absolutezeroo)
 <br />
@@ -9,6 +9,7 @@
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning Vue 3;
+- 🖥️ My last project it's my boilerplate for authentication;
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
