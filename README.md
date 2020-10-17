@@ -1,4 +1,4 @@
-## Hi, I'm Clayton, a Developer from French 🚀
+## Hi, I'm Clayton, a French Developer (Freelancer) 🚀
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/absolutezeroo)
 <br />
