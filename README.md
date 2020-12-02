@@ -4,7 +4,7 @@
 <br />
 <br />
 
-  <img width="45%" align="right" alt="Github" src="https://github.com/absolutezeroo/absolutezeroo/blob/master/undraw_design_components_9vy6.svg" />
+  <img width="45%" align="right" alt="Github" src="https://github.com/absolutezeroo/absolutezeroo/blob/master/undraw_web_development_w2vv.svg" />
   
 **Talking about Personal Stuffs:**
 
