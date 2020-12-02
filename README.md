@@ -8,8 +8,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Vue 3;
-- 🖥️ My last project it's my boilerplate for authentication;
+- 🌱 I’m currently learning Angular 11;
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
