@@ -1,4 +1,4 @@
-## Hi, I'm Clayton, a French Developer (Freelancer) 🚀
+## Bonjour, je suis Clayton, un développeur web français 🚀
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/absolutezeroo)
 <br />
@@ -6,12 +6,12 @@
 
   <img width="45%" align="right" alt="Github" src="https://github.com/absolutezeroo/absolutezeroo/blob/master/undraw_web_development_w2vv.svg" />
   
-**Talking about Personal Stuffs:**
+**Actuellement en cours:**
 
-- 🌱 I’m currently learning Angular 11;
-- 💬 Ask me about anything, I am happy to help;
+- 🌱 Actuellement j'apprends Angular 11;
+- 💬 Si vous avez besoin d'aide, n'hésitez pas à me contacter;
 
-**Languages and Tools:**  
+**Langues et outils:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
