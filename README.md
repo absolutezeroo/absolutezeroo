@@ -2,6 +2,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/absolutezeroo)
 [![Npm](https://img.shields.io/badge/-Npm-000?style=flat&logo=Npm&logoColor=white)](https://www.npmjs.com/org/absolutezeroo)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-000?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/clayton-barbier/)
 <br />
 <br />
 
