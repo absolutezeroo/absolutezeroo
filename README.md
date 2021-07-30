@@ -1,6 +1,7 @@
 ## Hello, I am Clayton, a French web developer 🚀
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/absolutezeroo)
+[![Npm](https://img.shields.io/badge/-Npm-000?style=flat&logo=Npm&logoColor=white)](https://www.npmjs.com/org/absolutezeroo)
 <br />
 <br />
 
